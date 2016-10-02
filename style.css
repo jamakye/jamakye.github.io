@@ -3,8 +3,16 @@ div {
     border: 25px darkgray;
     padding: 25px;
     margin: 25px;
+    border-radius: 5px;
 }
-
+ 
+body {
+    color: Black;
+    background-color: LightGray;
+    font-family: Garamond;
+    font-size: 12px;
+    border-radius: 5px;
+}
 
 h1 { 
     display: block;
@@ -16,10 +24,7 @@ h1 {
     font-weight: bold;
 }
 
-div
-{
-    border-radius: 5px;
-    }
+
 #header
 {
     position: floating;
