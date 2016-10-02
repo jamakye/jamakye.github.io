@@ -4,6 +4,7 @@ div {
     padding: auto;
     margin: auto ;
     border-radius: auto;
+    display: block;
 }
  
 body {
@@ -45,6 +46,11 @@ p { color: pink;
 	font-size: 20px;
 	font-family: Verdana, sans-serif;
 	color: white;
+}
+
+.address {
+	display: block;
+	font-style: italic;
 }
 
 #email{
