@@ -1,9 +1,15 @@
 body {
-    background-color: powderblue;
+    background-color: black;
+    font-family: times new roman;
+    font-size: 10px;
 }
 h1 {
-    color: blue;
+    color: white;
+    font-family: times new roman;
+    font-size: 14px;
 }
 p {
-    color: red;
+    color: white;
+    font-family: times new roman;
+    font-size: 12px;
 }
