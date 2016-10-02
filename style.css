@@ -3,13 +3,15 @@ body {
     font-family: times new roman;
     font-size: 10px;
 }
+
 h1 {
-    color: white;
+    color: black;
     font-family: times new roman;
     font-size: 14px;
 }
+
 p {
-    color: white;
+    color: black;
     font-family: times new roman;
     font-size: 12px;
 }
