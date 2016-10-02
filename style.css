@@ -81,25 +81,3 @@ p { color: pink;
 	font-family: Verdana, sans-serif;
 	color: #ffffff;
     }
-
-.right
-{
-    float: right;
-    margin-top: auto;
-    padding-left:auto ;
-    margin-right: auto;
-    margin-left: auto;
-    height: auto;
-    width: auto;
-    background-color: darkgray;
-    }
-
-.left
-{
-    float: left;
-    margin-top: 50px;
-    margin-right: -90px;
-    height: relative;
-    width: 10%;
-    background-color: blue;
-    }
