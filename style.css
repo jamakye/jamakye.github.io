@@ -1,6 +1,6 @@
 div {
     width: 300px;
-    border: 25px darkgray;
+    border: 25px red;
     padding: 25px;
     margin: 25px;
     border-radius: 5px;
@@ -72,7 +72,7 @@ h1 {
     margin-left: 14%;
     height: auto;
     width: auto;
-    background-color: red;
+    background-color: darkgray;
     }
 
 .left
@@ -82,5 +82,5 @@ h1 {
     margin-right: -90px;
     height: relative;
     width: 10%;
-    background-color: #4160E8;
+    background-color: blue;
     }
