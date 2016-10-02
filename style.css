@@ -24,6 +24,9 @@ h1 {
     font-weight: bold;
 }
 
+p { color: pink;
+    font-size: 12px;
+}
 
 #header
 {
