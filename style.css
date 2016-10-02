@@ -1,9 +1,9 @@
 div {
-    width: 300px;
+    width: 250px;
     border: 25px red;
     padding: 25px;
     margin: 25px;
-    border-radius: 5px;
+    border-radius: 10px;
 }
  
 body {
