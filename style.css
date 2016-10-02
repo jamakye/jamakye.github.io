@@ -1,17 +1,14 @@
 body {
+    color: Black;
     background-color: LightGray;
-    font-family: times new roman;
-    font-size: 10px;
+    font-family: Garamond;
+    font-size: 12px;
 }
 
 h1 {
-    color: black;
-    font-family: times new roman;
     font-size: 14px;
 }
 
 p {
-    color: black;
-    font-family: times new roman;
-    font-size: 12px;
+ 
 }
