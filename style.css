@@ -1,8 +1,10 @@
 body {
      color: Black;
      background-color: LightGray;
+     border: 25px darkgray;
      font-family: Garamond;
      font-size: 12px;
+     border-radius: 5px;
 }
 
 
@@ -10,7 +12,9 @@ body {
 div {
     width: auto;
     height: auto;
+    position: floating;
     border: solid darkgray;
+    border-radius: auto;
     padding: 100px;
     margin: auto;
     color: White;
