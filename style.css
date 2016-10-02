@@ -30,18 +30,18 @@ h1 {
     position: floating;
     z-index: 1;
     height:40px;
-    width: 98%;
+    width: 50%;
     background-color: green;
     margin-bottom: 10px
     }
 
 #name {
     float:left;
-	margin-left: 20px;
-	padding-bottom: 10px;
-	font-size: 16px;
+	margin-left: auto;
+	padding-bottom: auto;
+	font-size: 20px;
 	font-family: Verdana, sans-serif;
-	color: #ffffff;
+	color: white;
 }
 
 #email{
