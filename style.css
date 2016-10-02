@@ -1,7 +1,7 @@
 div {
     width: 100%;
     height: auto;
-    border: 50% darkgray;
+    border: solid darkgray;
     padding: 25px;
     margin: auto;
     color: White;
