@@ -48,7 +48,7 @@ p { color: pink;
 	color: white;
 }
 
-.address {
+#address {
 	display: block;
 	font-style: italic;
 }
