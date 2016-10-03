@@ -26,8 +26,6 @@ p {
      height: 150px;
      border: 0px solid black;
      float: right;
-     margin-right: 0px;
-     padding-bottom: 0px;
      border-radius: 15px;
 }
 
@@ -44,7 +42,7 @@ p {
 #Summary {   
      width: 50%;
      height: 50%;
-     margin:  50px;
+     margin:  auto;
      padding: 50px;
      border:  2px solid black;
      border-radius: 15px;
@@ -54,7 +52,7 @@ p {
 #Skills {
      width:  50%;
      height: 50%;
-     margin: 50px;
+     margin: auto;
      padding: 50px;
      border: 2px solid black;
      border-radius: 15px;
