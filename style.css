@@ -18,3 +18,12 @@ div {
     color: White;
     background-color: green;
 }
+
+#header {
+     color: Black;
+     background-color: LightGray;
+     border: 25px darkgray;
+     font-family: Garamond;
+     font-size: 12px;
+     border-radius: 5px;
+}
