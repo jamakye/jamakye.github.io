@@ -2,19 +2,19 @@ body {
      color: Black;
      font-family: Garamond;
      font-size: 15 px;
-     margin: 50 px;
      text-align: left;
+     margin: 50 px;   
 }
 
 #header {
      width: 50%;
-     height: 50%;
-     margin: 100 px auto;
-     padding: 20 px;
-     border: 25 px solid red;
+     height: 40%;
+     margin: 100px auto;
+     padding: 20px;
+     border: 25px solid red;
      color: Black;
      background-color: Green;
      font-family: Garamond;
-     font-size: 20 px;
-     border-radius: 50 px;
+     font-size: 20px;
+     border-radius: 50px;
 }
