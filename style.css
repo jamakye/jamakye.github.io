@@ -36,8 +36,9 @@ p {
      margin: 50px auto;
      padding: 50px;
      border: 2px solid black;
-     border-radius: 15px;
+     border-radius: 20px;
      outline-style: inset;
+     outline-color: black;
 }
 
 #Summary {   
