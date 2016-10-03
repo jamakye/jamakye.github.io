@@ -32,7 +32,7 @@ p {
 }
 
 #Header {
-     background-color: darkgray
+     background-color: darkgray;
      width: 50%;
      height: 50%;
      margin: 50px;
@@ -42,13 +42,13 @@ p {
 }
 
 #Summary {   
-     width:   auto;
-     height:  auto;
+     width: 50%;
+     height: 50%;
      margin:  50px;
      padding: 50px;
      border:  50px solid black;
      border-radius: 15px;
-     position: center; 
+     text-align: center; 
 }
 
 #Skills {
@@ -58,7 +58,7 @@ p {
      padding: 50px;
      border: 50px solid black;
      border-radius: 15px;
-     position: center; 
+     text-align: center;
 }
 
 #Certifications {
@@ -67,8 +67,8 @@ p {
      margin: 50px;
      padding: 50px;
      border: 50px solid black;
-     border-radius: 15px;
-     position: center; 
+     border-radius: 15px; 
+     text-align: center; 
 }
 
 #Education {   
@@ -78,7 +78,7 @@ p {
      padding: 50px;
      border: 50px solid black;
      border-radius: 15px;
-     position: center; 
+     text-align: center; 
 }
 
 #Employment {   
@@ -88,5 +88,5 @@ p {
      padding: 50px;
      border: 50px solid black;
      border-radius: 15px;
-     position: center; 
+     text-align: center;  
 }
