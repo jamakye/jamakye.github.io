@@ -11,7 +11,7 @@ h1 {
      font-style: italic;
 }
 
-h2 {
+ /* h2 {
 }
 
 h3 {
@@ -19,6 +19,7 @@ h3 {
 
 p {
 }
+*/
 
 #Picture {
      width: 150px;
@@ -84,4 +85,3 @@ p {
      border: 50px solid black;
      border-radius: 15px;
 }
-     
