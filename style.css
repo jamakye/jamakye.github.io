@@ -37,6 +37,7 @@ p {
      padding: 50px;
      border: 2px solid black;
      border-radius: 15px;
+     outline-style: inset;
 }
 
 #Summary {   
