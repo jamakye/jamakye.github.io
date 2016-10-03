@@ -21,3 +21,37 @@ body {
      float: right;
      margin-right: 10px;
      padding-bottom: 5px;
+}
+
+#Summary {   
+     width:   50%;
+     height:  50%;
+     margin:  50px;
+     padding: 50px;
+     border:  50px solid black;
+}
+
+#Skills {
+     width:  50%;
+     height: 50%;
+     margin: 50px;
+     padding: 50px;
+     border: 50px solid black;
+}
+
+#Certifications {
+     width:  50%;
+     height: 50%;
+     margin: 50px;
+     padding: 50px;
+     border: 50px solid black;
+}
+
+#Education {   
+     width:  50%;
+     height: 50%;
+     margin: 50px;
+     padding: 50px;
+     border: 50px solid black;
+}
+     
