@@ -7,8 +7,8 @@ body {
 }
 
 #header {
-     width: auto;
-     height: auto;
+     width: 50%;
+     height: 50%;
      margin: 100 px auto;
      padding: 20 px;
      border: 25 px solid red;
