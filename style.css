@@ -7,10 +7,12 @@ body {
 }
 
 #header {
+     width: auto;
+     height: auto;
      color: Black;
      background-color: Green;
      border: 25px red;
      font-family: Garamond;
-     font-size: 20px;
-     border-radius: 50px;
+     font-size: 20 px;
+     border-radius: 50 px;
 }
