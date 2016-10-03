@@ -7,18 +7,6 @@ body {
      border-radius: 5px;
 }
 
-div {
-    width: auto;
-    height: auto;
-    position: floating;
-    border: solid darkgray;
-    border-radius: auto;
-    padding: 100px;
-    margin: auto;
-    color: White;
-    background-color: green;
-}
-
 #header {
      color: Black;
      background-color: LightGray;
