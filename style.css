@@ -42,8 +42,8 @@ p {
 }
 
 #Summary {   
-     width:   50%;
-     height:  50%;
+     width:   auto;
+     height:  auto;
      margin:  50px;
      padding: 50px;
      border:  50px solid black;
