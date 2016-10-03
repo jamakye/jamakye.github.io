@@ -9,9 +9,9 @@ body {
 
 #header {
      color: Black;
-     background-color: LightGray;
-     border: 25px darkgray;
+     background-color: Green;
+     border: 25px red;
      font-family: Garamond;
-     font-size: 12px;
-     border-radius: 5px;
+     font-size: 20px;
+     border-radius: 50px;
 }
