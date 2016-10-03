@@ -1,6 +1,8 @@
 body {
      color: Black;
-     margin:0 px;
+     font-family: Garamond;
+     font-size: 15 px;
+     margin:50 px;
      text-align: left
 }
 
