@@ -3,7 +3,7 @@ body {
      background: url(noise-background-04.png);
      font: 15px "Garamond", arial, serif;
      text-align: left;
-     margin:50px;
+     margin:2px;
      border-radius: 15px;
 }
 
@@ -32,12 +32,12 @@ p {
 }
 
 #Header {
-     background-color: darkgray;
+     background-color: gray;
      width: 50%;
      height: 50%;
      margin: 50px;
      padding: 50px;
-     border: 50px solid black;
+     border: 2px solid black;
      border-radius: 15px;
 }
 
@@ -46,7 +46,7 @@ p {
      height: 50%;
      margin:  50px;
      padding: 50px;
-     border:  50px solid black;
+     border:  2px solid black;
      border-radius: 15px;
      text-align: center; 
 }
@@ -56,7 +56,7 @@ p {
      height: 50%;
      margin: 50px;
      padding: 50px;
-     border: 50px solid black;
+     border: 2px solid black;
      border-radius: 15px;
      text-align: center;
 }
@@ -65,7 +65,7 @@ p {
      width:  50%;
      height: 50%;
      margin: 50px;
-     padding: 50px;
+     padding: 2px;
      border: 50px solid black;
      border-radius: 15px; 
      text-align: center; 
@@ -76,7 +76,7 @@ p {
      height: 50%;
      margin: 50px;
      padding: 50px;
-     border: 50px solid black;
+     border: 2px solid black;
      border-radius: 15px;
      text-align: center; 
 }
@@ -86,7 +86,7 @@ p {
      height: 50%;
      margin: 50px;
      padding: 50px;
-     border: 50px solid black;
+     border:2px solid black;
      border-radius: 15px;
      text-align: center;  
 }
