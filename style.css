@@ -1,9 +1,9 @@
 body {
      color: black;
+     background: url(noise-background-04.png);
      font: 15px "Garamond", arial, serif;
      text-align: left;
-     margin:0px;
-     background: url(noise-background-04.png);
+     margin:50px;   
 }
 
 #header {
@@ -12,6 +12,7 @@ body {
      margin: 25px auto;
      padding: 20px;
      border: 2px solid red;
+     color: #8B0000;
      background-color: #006400;
 }
 
@@ -20,6 +21,5 @@ body {
      height: auto;
      border: 0px solid black;
      float: right;
-     margin: 100px;
-     padding : 10px;
-     
+     margin-right: 10px;
+     padding-bottom: 5px;
