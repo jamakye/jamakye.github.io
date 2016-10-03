@@ -33,7 +33,7 @@ p {
     /* background-color:*/
      width: 50%;
      height: 50%;
-     margin: 50px;
+     margin: auto;
      padding: 50px;
      border: 2px solid black;
      border-radius: 15px;
@@ -62,7 +62,7 @@ p {
 #Certifications {
      width:  50%;
      height: 50%;
-     margin: 50px;
+     margin: auto;
      padding: 50px;
      border: 2px solid black;
      border-radius: 15px; 
@@ -72,7 +72,7 @@ p {
 #Education {   
      width:  50%;
      height: 50%;
-     margin: 50px;
+     margin: auto;
      padding: 50px;
      border: 2px solid black;
      border-radius: 15px;
@@ -82,7 +82,7 @@ p {
 #Employment {   
      width:  50%;
      height: 50%;
-     margin: 50px;
+     margin: auto;
      padding: 50px;
      border:2px solid black;
      border-radius: 15px;
