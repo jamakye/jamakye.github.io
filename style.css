@@ -9,7 +9,7 @@ body {
 #header {
      width: auto;
      height: auto;
-     margin: 100 px;
+     margin: 100 px auto;
      padding: 20 px;
      border: 25 px solid red;
      color: Black;
