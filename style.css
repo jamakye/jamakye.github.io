@@ -1,5 +1,5 @@
 body {
-     color: Blue;
+     color: #0000FF;
      font: 15px "Garamond", arial, serif;
      text-align: left;
      margin: 0px;   
@@ -11,6 +11,6 @@ body {
      margin: 100px auto;
      padding: 20px;
      border: 2px solid red;
-     color: Pink;
-     background-color: Green;
+     color: #8B0000;
+     background-color: #006400;
 }
