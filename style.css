@@ -7,6 +7,19 @@ body {
      border-radius: 15px;
 }
 
+h1 {
+     font-style: italic;
+}
+
+h2 {
+}
+
+h3 {
+}
+
+p {
+}
+
 #Picture {
      width: 150px;
      height: 150px;
