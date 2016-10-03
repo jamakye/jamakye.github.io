@@ -1,10 +1,7 @@
 body {
      color: Black;
-     background-color: LightGray;
-     border: 25px darkgray;
-     font-family: Garamond;
-     font-size: 12px;
-     border-radius: 5px;
+     margin:0 px;
+     text-align: left
 }
 
 #header {
