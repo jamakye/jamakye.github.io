@@ -26,7 +26,6 @@ Header {
   width: 50%;
   height: 50%;
   margin: 10px auto;
-  background-color: white;
   border: 0px solid #f49842;
   border-radius: 15px;
   padding: 10px;
@@ -49,7 +48,7 @@ p {
   border-radius: 15px;
 }
 
-.body {
+.maincontent {
   width: 50%;
   height: 50%;
   margin: 10px auto;
@@ -62,7 +61,3 @@ p {
 /*.Skills li {
   color: black;
 }*/
-
-
-
-
