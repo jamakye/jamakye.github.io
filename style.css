@@ -26,6 +26,7 @@ Header {
   width: 50%;
   height: 50%;
   margin: 10px auto;
+  background-color: white;
   border: 0px solid #f49842;
   border-radius: 15px;
   padding: 10px;
@@ -48,7 +49,7 @@ p {
   border-radius: 15px;
 }
 
-.Summary {
+.body {
   width: 50%;
   height: 50%;
   margin: 10px auto;
@@ -57,48 +58,11 @@ p {
   border-radius: 15px;
   text-align: left;
 }
-
-.Skills {
-  width: 50%;
-  height: 50%;
-  margin: 10px auto;
-  padding: 10px;
-  border: 0px solid #f49842;
-  border-radius: 15px;
-  text-align: left;
-}
-
 
 /*.Skills li {
   color: black;
 }*/
 
-.Certifications {
-  width: 50%;
-  height: 50%;
-  margin: 10px auto;
-  padding: 10px;
-  border: 0px solid #f49842;
-  border-radius: 15px;
-  text-align: left;
-}
 
-.Education {
-  width: 50%;
-  height: 50%;
-  margin: 10px auto;
-  padding: 10px;
-  border: 0px solid #f49842;
-  border-radius: 15px;
-  text-align: left;
-}
 
-.Employment {
-  width: 50%;
-  height: 50%;
-  margin: 10px auto;
-  padding: 10px;
-  border: 0px solid #f49842;
-  border-radius: 15px;
-  text-align: left;
-}
+
